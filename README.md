@@ -1,4 +1,12 @@
-### Hi there 👋
+
+
+# Hello 👋
+ I’m Wilson, from france 🇫🇷, I am passionate about Jazz, Boxing and Statistics. Here I will share with you some projects around data analysis, machine learning and software engineering.
+
+ 
+ <p align="center">
+  <a href="https://www.linkedin.com/in/wilson-goma/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
 <!--
 **gwils28/gwils28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
