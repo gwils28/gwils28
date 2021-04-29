@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/gwils28/gwils28/blob/main/bass.gif" />
+</p>
 
 # Hello 👋
  I’m Wilson, from france 🇫🇷, I am passionate about Jazz, Boxing and Statistics. Here I will share with you some projects around data analysis, machine learning and software engineering.
