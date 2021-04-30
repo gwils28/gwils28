@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on my customers Data Science project.
 - 🌱 I’m currently learning cloud computing through AWS and GCP and DevOps best practices. 
 - 👯 I’m looking to collaborate on cool Data Projects.
-- 🤔 I’m looking for help with cybersecurity.
 - 💬 Ask me about Statistics, Data Science and Analytics.
 - ⚡ Fun fact: Once I was stopped by a very pretty policewoman because I was taller than her husband (199cm). Unfortunately she didn't handcuff me.
  
