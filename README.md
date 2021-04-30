@@ -5,7 +5,7 @@
 # Hello 👋
  My name is Wilson, from france 🇫🇷. I am passionate about Jazz, Painting, Boxing and Statistics. Here I will share with you some projects around data analysis, machine learning and software engineering.
 - 🔭 I’m currently working on my customers Data Science project.
-- 🌱 I’m currently learning cloud computing through AWS and GCP. 
+- 🌱 I’m currently learning cloud computing through AWS and GCP and DevOps best practices. 
 - 👯 I’m looking to collaborate on cool Data Projects.
 - 🤔 I’m looking for help with cybersecurity.
 - 💬 Ask me about Statistics, Data Science and Analytics.
