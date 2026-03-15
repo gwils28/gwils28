@@ -8,6 +8,24 @@
 <p align="center">
   <i>Bridging the gap between advanced Machine Learning and strategic business impact. 
   Based in France 🇫🇷, I design production-first AI systems that drive operational efficiency and revenue. When I'm not building ML pipelines, you'll find me listening to classic Jazz records.</i>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wilson-goma/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Google%20Cloud-Professional%20ML%20Engineer-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud Professional ML Engineer">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gwils28&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gwils28&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwils28&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -40,4 +58,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
-
