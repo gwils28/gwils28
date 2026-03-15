@@ -9,10 +9,6 @@
   <i>Bridging the gap between advanced Machine Learning and strategic business impact. 
   Based in France 🇫🇷, I design production-first AI systems that drive operational efficiency and revenue. When I'm not building ML pipelines, you'll find me listening to classic Jazz records.</i>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/wilson-goma/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Google%20Cloud-Professional%20ML%20Engineer-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud Professional ML Engineer">
-</p>
 
 ---
 
