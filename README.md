@@ -6,8 +6,9 @@
 <h3 align="center">Data Scientist | Machine Learning Engineer | AI System Architect | Jazz & Statistics Enthusiast</h3>
 
 <p align="center">
-  <i>Bridging the gap between advanced Machine Learning and strategic business impact. 
+  <i>Bridging the gap between advanced Machine Learning and strategic business impact.
   Based in France 🇫🇷, I design production-first AI systems that drive operational efficiency and revenue. When I'm not building ML pipelines, you'll find me listening to classic Jazz records.</i>
+</p>
 
 
 ---
@@ -53,4 +54,5 @@
   <a href="https://www.linkedin.com/in/wilson-goma/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
+  <img src="https://img.shields.io/badge/Google%20Cloud-Professional%20ML%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Professional ML Engineer">
 </p>
