@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Wilson! 👋</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | AI System Architect | Jazz & Statistics Enthusiast</h3>
+<h3 align="center">Data Scientist | Doublebass Jazz Enthusiast</h3>
 
 <p align="center">
   <i>Bridging the gap between advanced Machine Learning and strategic business impact.
