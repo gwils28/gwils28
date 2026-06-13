@@ -14,18 +14,17 @@
 ---
 
 
-### 🚀 What I'm up to
+### What I'm up to
 
 - 🔭 **Currently architecting:** Scalable Time Series forecasting systems and Cost-Aware GenAI applications on Google Cloud (GCP).
 - 🎷 **Passion Project:** Building an Agentic RAG system and BI-as-Code pipeline to synthesize and monetize 90 years of *DownBeat* Jazz magazine archives.
 - 🌱 **Deep-diving into:** Agentic workflows (LangGraph), LLM Evaluation, and MLOps/FinOps best practices.
-- 👯 **Looking to collaborate on:** Open-source AI tools, high-impact System Design challenges, or cool statistical projects.
 - 💬 **Ask me about:** Statistics, Time Series, ML System Design, deploying Agentic AI, or the best Hard Bop albums of the 60s.
 - 🎩 **Fun fact 1:** I have a statistics joke, but I’m afraid it will only appeal to a small sample.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
