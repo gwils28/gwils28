@@ -20,9 +20,8 @@
 - 🎷 **Passion Project:** Building an Agentic RAG system and BI-as-Code pipeline to synthesize and monetize 90 years of *DownBeat* Jazz magazine archives.
 - 🌱 **Deep-diving into:** Agentic workflows (LangGraph), LLM Evaluation, and MLOps/FinOps best practices.
 - 👯 **Looking to collaborate on:** Open-source AI tools, high-impact System Design challenges, or cool statistical projects.
-- 💬 **Ask me about:** Statistics, ML System Design, deploying Agentic AI, bridging Tech & C-Level Strategy, or the best Hard Bop albums of the 60s.
-- 🎩 **Fun fact 1:** When I grow up, I want to be a Jazzman, a Tailor, and a Sesame farmer. (But until then, I'm building AI systems).
-- ⚡ **Fun fact 2:** I have a statistics joke, but I’m afraid it will only appeal to a small sample.
+- 💬 **Ask me about:** Statistics, Time Series, ML System Design, deploying Agentic AI, or the best Hard Bop albums of the 60s.
+- 🎩 **Fun fact 1:** I have a statistics joke, but I’m afraid it will only appeal to a small sample.
 
 ---
 
