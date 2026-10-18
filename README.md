@@ -1,43 +1,33 @@
+<a href="https://gwils28.github.io/en/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" width="100%" alt="Wilson Goma, Data Scientist & ML Engineer. Statistician at heart, building forecasting, ML and GenAI systems that hold up in production.">
+  </picture>
+</a>
+
 <p align="center">
-  <img src="https://github.com/gwils28/gwils28/blob/main/bass.gif" width="200" />
+  <a href="https://gwils28.github.io/en/"><img src="https://img.shields.io/badge/Website-gwils28.github.io-2E6218?style=flat-square&labelColor=272D25&logo=hugo&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/wilson-goma/"><img src="https://img.shields.io/badge/LinkedIn-wilson--goma-2E6218?style=flat-square&labelColor=272D25&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.credly.com/badges/507de011-6beb-4e57-bc54-f56abcf7a459"><img src="https://img.shields.io/badge/Google_Cloud-Professional_ML_Engineer-9B5E0D?style=flat-square&labelColor=272D25&logo=googlecloud&logoColor=white" alt="Google Cloud Professional ML Engineer"></a>
 </p>
 
-<h1 align="center">Hi there, I'm Wilson! 👋</h1>
-<h3 align="center">Data Scientist | Doublebass Jazz Enthusiast</h3>
+I'm a data scientist with a strong taste for statistics, specialised in **time series** and **causal inference**, with hands-on experience in **LLMs and AI agents**. I started in biostatistics at INSERM, then moved through banking, IoT and telecom, always with the same goal: models that help people understand how things work and make better decisions. Since 2021 I also mentor Data Science, Data Engineering and AI Engineering learners at OpenClassrooms.
 
-<p align="center">
-  <i>Bridging the gap between advanced Machine Learning and strategic business impact.
-  Based in France 🇫🇷, I design production-first AI systems that drive operational efficiency and revenue. When I'm not building ML pipelines, you'll find me listening to classic Jazz records.</i>
+My website is where I think out loud: tech watch, paper reviews, and projects I build to understand things by doing them.
+
+<p>
+  <a href="https://gwils28.github.io/en/posts/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-posts-dark.svg"><img src="assets/card-posts-light.svg" width="49%" alt="Posts: tech watch, paper reviews and working methods"></picture></a>
+  <a href="https://gwils28.github.io/en/projects/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-projects-dark.svg"><img src="assets/card-projects-light.svg" width="49%" alt="Projects: from-scratch reimplementations, benchmarks, products"></picture></a>
+  <a href="https://gwils28.github.io/en/cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-resume-dark.svg"><img src="assets/card-resume-light.svg" width="49%" alt="Resume"></picture></a>
+  <a href="https://gwils28.github.io/en/jazz/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-jazz-dark.svg"><img src="assets/card-jazz-light.svg" width="49%" alt="Jazz"></picture></a>
 </p>
 
-
----
-
-
-### What I'm up to
-
-- 🔭 **Currently architecting:** Scalable Time Series forecasting systems and Cost-Aware GenAI applications on Google Cloud (GCP).
-- 🎷 **Passion Project:** Building an Agentic RAG system and BI-as-Code pipeline to synthesize and monetize 90 years of *DownBeat* Jazz magazine archives.
-- 🌱 **Deep-diving into:** Agentic workflows (LangGraph), LLM Evaluation, and MLOps/FinOps best practices.
-- 💬 **Ask me about:** Statistics, Time Series, ML System Design, deploying Agentic AI, or the best Hard Bop albums of the 60s.
-- 🎩 **Fun fact 1:** I have a statistics joke, but I’m afraid it will only appeal to a small sample.
-
----
-
-### Tech Stack & Tools
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="Toolbox: Python, R, SQL, time series, causal inference, survival analysis, PyTorch, LangGraph, RAG, GCP, Vertex AI, BigQuery, Airflow, dbt, MLflow, Docker, Terraform">
+</picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/wilson-goma/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <img src="https://img.shields.io/badge/Google%20Cloud-Professional%20ML%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Professional ML Engineer">
+  <sub><i>"All models are wrong, but some are useful."</i> · George E. P. Box</sub><br>
+  <sub>🎩 I have a statistics joke, but I'm afraid it will only appeal to a small sample.</sub>
 </p>
