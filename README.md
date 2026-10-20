@@ -27,6 +27,13 @@ My website is where I think out loud: tech watch, paper reviews, and projects I 
   <img src="assets/stack-light.svg" width="100%" alt="Toolbox: Python, R, SQL, time series, causal inference, survival analysis, PyTorch, LangGraph, RAG, GCP, Vertex AI, BigQuery, Airflow, dbt, MLflow, Docker, Terraform">
 </picture>
 
+<a href="https://github.com/gwils28?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+    <img src="assets/stats-light.svg" width="100%" alt="GitHub activity over the last 12 months: contributions, commits, pull requests, streaks and languages. Refreshed daily.">
+  </picture>
+</a>
+
 <p align="center">
   <sub><i>"All models are wrong, but some are useful."</i> · George E. P. Box</sub><br>
   <sub>🎩 I have a statistics joke, but I'm afraid it will only appeal to a small sample.</sub>
