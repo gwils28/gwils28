@@ -29,7 +29,7 @@ jobs:
         run: python .github/scripts/github_stats.py
       - name: Commit if changed
         run: |
-          git add assets/stats-light.svg assets/stats-dark.svg
+          git add assets/stats-*.svg assets/recent-*.svg assets/repo-*.svg README.md
           git diff --cached --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898+github-actions[bot]@users.noreply.github.com"
